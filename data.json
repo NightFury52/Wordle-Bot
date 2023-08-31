@@ -1,14 +1,14 @@
 {
     "win_indeces": {
         "6": 0,
-        "5": 1,
+        "5": 0,
         "4": 0,
         "3": 0,
         "2": 0,
         "1": 0
     },
-    "matches_played": 1,
-    "matches_won": 1,
+    "matches_played": 0,
+    "matches_won": 0,
     "matches_lost": 0,
     "achievements": {
         "a-1": false,
